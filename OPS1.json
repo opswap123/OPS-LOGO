@@ -1,0 +1,25 @@
+{
+"name": "OPS List",
+"logoURI": "https://s3.bmp.ovh/imgs/2021/09/a4f228f9e2166b80.png",
+"keywords": [
+"defi",
+"OPT1 ",
+"yield"
+],
+"timestamp": "2020-09-01T01:40:34.305Z",
+"tokens": [
+{
+"chainId": 1,
+"address": "0x09045d9cad96Dbb7bCdA8886B5279Ee4d038056c",
+"name": "OPT1",
+"symbol": "OPT1",
+"decimals": 18,
+"logoURI": "https://s3.bmp.ovh/imgs/2021/09/a4f228f9e2166b80.png"
+}
+],
+"version": {
+"major": 0,
+"minor": 0,
+"patch": 0
+}
+}
