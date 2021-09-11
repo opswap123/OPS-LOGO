@@ -1,6 +1,6 @@
 {
 "name": "OPS List",
-"logoURI": "https://s3.bmp.ovh/imgs/2021/09/a4f228f9e2166b80.png",
+"logoURI": "https://s3.bmp.ovh/imgs/2021/09/c44286a58d9682ce.jpg",
 "keywords": [
 "defi",
 "OPT1 ",
@@ -10,11 +10,11 @@
 "tokens": [
 {
 "chainId": 1,
-"address": "0x09045d9cad96Dbb7bCdA8886B5279Ee4d038056c",
-"name": "OPT1",
+"address": "0xc6b70ABAB6Dd7C671af884bAd1cfFd599C5c40E2",
+"name": "OPS",
 "symbol": "OPT1",
 "decimals": 18,
-"logoURI": "https://s3.bmp.ovh/imgs/2021/09/a4f228f9e2166b80.png"
+"logoURI": "https://s3.bmp.ovh/imgs/2021/09/c44286a58d9682ce.jpg"
 }
 ],
 "version": {
